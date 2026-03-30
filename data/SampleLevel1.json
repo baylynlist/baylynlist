@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 95578282,
+    "name": "BYEAH",
+    "author": "baylyn",
+    "creators": ["baylyn", "baylyn", "baylyn"],
+    "verifier": "baylyn",
+    "verification": "https://cdn.discordapp.com/attachments/1486469704271921357/1488239900514979961/Geometry_Dash_2023.10.19_-_02.36.35.03.DVR_-_Trim.mp4?ex=69cc0eea&is=69cabd6a&hm=7743f30d6494fbc4e1ba4b6e0ce760fc71d4840c5dd0e21791024a748c5ab796&",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": 
         }
     ]
 }
